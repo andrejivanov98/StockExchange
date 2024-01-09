@@ -1,0 +1,53 @@
+.order-component {
+  font-family: 'Arial, sans-serif';
+  padding: 20px;
+}
+
+.order-component select,
+.order-component input[type="number"],
+.order-component input[type="text"] {
+  margin-left: 10px;
+}
+
+.order-button {
+  margin-right: 10px;
+  padding: 5px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.modal {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  background-color: #969696;
+}
+
+.modal-confirm-button {
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.modal-close-button {
+  background: grey;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.cash-balance {
+  color: #007bff;
+}
+
+.valid-order-yes {
+  color: #3cb10e;
+}
+
+.valid-order-no {
+  color: #e74b2f;
+}

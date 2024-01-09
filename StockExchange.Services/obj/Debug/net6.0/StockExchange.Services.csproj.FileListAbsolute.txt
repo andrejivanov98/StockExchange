@@ -1,0 +1,15 @@
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\bin\Debug\net6.0\StockExchange.Services.deps.json
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\bin\Debug\net6.0\StockExchange.Services.dll
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\bin\Debug\net6.0\StockExchange.Services.pdb
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\bin\Debug\net6.0\StockExchange.DataContext.dll
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\bin\Debug\net6.0\StockExchange.DataContext.pdb
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.csproj.AssemblyReference.cache
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.AssemblyInfoInputs.cache
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.AssemblyInfo.cs
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.csproj.CoreCompileInputs.cache
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.csproj.CopyComplete
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.dll
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\refint\StockExchange.Services.dll
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\StockExchange.Services.pdb
+C:\Andrej\Personal\VanLanschotKempen.StockExchange\StockExchange.Services\obj\Debug\net6.0\ref\StockExchange.Services.dll
