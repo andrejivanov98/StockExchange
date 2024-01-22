@@ -1,10 +1,10 @@
-# Technical Assessment - Stock Exchange Application
+# Stock Exchange Application
 
-This repository contains my solution for a technical assessment aimed at developing a stock exchange application. The solution demonstrates my approach to software design and development, emphasizing clean architecture, design patterns, and modern technologies.
+The solution demonstrates my approach to software design and development, emphasizing clean architecture, design patterns, and modern technologies.
 
 ## Overview
 ### Approach
-My approach to this assignment was methodical and focused on creating a scalable, maintainable, and efficient application. I started by understanding the requirements and then structured the application into distinct layers. Emphasis was placed on clear separation of concerns, code reusability, and implementing best practices in software development.
+My approach to this project was methodical and focused on creating a scalable, maintainable, and efficient application. I started by understanding the requirements and then structured the application into distinct layers. Emphasis was placed on clear separation of concerns, code reusability, and implementing best practices in software development.
 
 ### Architecture and Technologies
 #### Architecture: 3-Tier Architecture
